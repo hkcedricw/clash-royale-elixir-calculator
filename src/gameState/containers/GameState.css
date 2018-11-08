@@ -1,0 +1,22 @@
+.container {
+  text-align: left;
+}
+
+.container * {
+  margin-top: 5px;
+  margin-bottom: 5px
+}
+
+.button-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.button-container button {
+  margin-right: 3px
+}
+
+.button {
+  height: 30px
+}
